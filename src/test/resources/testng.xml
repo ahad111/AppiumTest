@@ -1,0 +1,9 @@
+<suite name="Appium Test Suite">
+    <test name="Appium Tests">
+        <classes >
+            <class name="tests.LoginSignupTest"/>
+            <class name="tests.FormsTest"/>
+            <class name="tests.SwipeTest"/>
+        </classes>
+    </test>
+</suite>
