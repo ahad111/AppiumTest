@@ -51,7 +51,7 @@ Ensure you have the following installed on your system:
 2. Navigate to the desired folder.
 3. Clone the project using:
 
-   git clone <repository_url>
+   git clone https://github.com/ahad111/AppiumTest.git
 
 ### 5. Load Project and Maven Changes in `pom.xml` (If Missing)
 
